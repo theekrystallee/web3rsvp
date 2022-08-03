@@ -196,3 +196,6 @@ contract Web3RSVP {
         emit DepositsPaidOut(eventId);
     }
 }
+
+// contract deployed to:
+// 0x0D4Fa8A491F6B4a8D8d3494026e7544c0e508096
